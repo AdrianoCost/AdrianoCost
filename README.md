@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/adriano-costa-ab0062279/ )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano_costa468/)
 
-![Adriano GitHub stat](https://github-readme-stats.vercel.app/api?username=AdrianoCost&show_icons=true&theme=dracula)
+![Adriano GitHub stat](https://github-readme-stats.vercel.app/api?username=AdrianoCost&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
 
@@ -12,5 +12,10 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Exel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div><br>
-Analista de TI e estudante deTecnologia em Banco de Dados: Ênfase em Data Analytics
+
+Analista de TI e estudante deTecnologia em Banco de Dados: Ênfase em Data Analytics.
+
+
+
+
 
